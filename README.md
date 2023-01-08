@@ -4,13 +4,9 @@
 >
 > **인스타툰과 이어주는 오작교!**
 
-
+**[<img src = "img/google-playstore.svg" width="200">](https://play.google.com/store/apps/details?id=kr.co.dongchin.linco)** 
 
 **<img src="img/main.png"/>**
-
-
-
-**[<img src = "img/google-playstore.svg">](https://play.google.com/store/apps/details?id=kr.co.dongchin.linco)** 
 
 
 
